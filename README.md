@@ -1,2 +1,2 @@
 # C
-C Programming source codes
+C programming projects and practice exercises
